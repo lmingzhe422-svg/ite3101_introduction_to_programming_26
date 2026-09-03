@@ -1,1 +1,1 @@
-greeting message
+print("")
