@@ -1,1 +1,1 @@
-print
+PARROT = "Norwegian Blue"
